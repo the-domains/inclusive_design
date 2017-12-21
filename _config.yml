@@ -1,0 +1,20 @@
+name: Inclusive_Design
+analytics:
+  google: adamborovkoff@gmail.com
+content_rating:
+  adult: false
+github: true
+description: Home of The Borovkoff Accessibility Bible
+opengraph: {}
+author: {}
+color:
+  lightness: 0.7486866327814494
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  saturation: 0.7063309838311586
+  brandStrength: 0.5974378559266771
+  rhythmicContrast: 0.7963585103387848
